@@ -1,4 +1,4 @@
-# data-processing in oragne
+# Data processing in oragne
 Dados los tres datasets: Solarflare, Soybean y Pageblocks que son distintos en su composición se calcula el arbol de reglas y la proporción de acierto.
 
 Todo esto en usando el software Orange.
